@@ -103,7 +103,7 @@ Visualization of model predictions
 
  How to Run
 Clone Repository
-git clone https:
+git clone https:https://github.com/kashyaparnav/Credit-Card-Fraud-Detection/tree/main
 cd Credit-Card-Fraud-Detection
 Install Dependencies
 pip install -r requirements.txt
